@@ -2,7 +2,7 @@
 
 This repository contains four files that demonstrate different neural network applications using the CIFAR-100 dataset. The files are organized as follows:
 
-1. `train_vgg19_cifar100.py`: This script trains a Convolutional Neural Network (CNN) using the VGG19 architecture on the CIFAR-100 dataset. It demonstrates how to preprocess the dataset, define the model architecture, train the model, and evaluate its performance.
+1. `train_vgg_cifar100.py`: This script trains a Convolutional Neural Network (CNN) using the VGG19 architecture on the CIFAR-100 dataset. It demonstrates how to preprocess the dataset, define the model architecture, train the model, and evaluate its performance.
 
 2. `ourvgg.py`: This file defines the architecture of the CNN used in the `train_vgg19_cifar100.py` script. It provides the necessary functions and classes to construct the VGG19 model for image classification.
 
